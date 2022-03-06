@@ -1,1 +1,1 @@
- let timerElement document.getElementById("timer");
+ let timerElement = document.getElementById("timer");
